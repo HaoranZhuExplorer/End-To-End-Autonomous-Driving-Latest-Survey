@@ -13,6 +13,7 @@ A curated list of the latest end-to-end autonomous driving (E2EAD). Keep updated
 
 
 #### Others 2025
+* RoCA: Robust Cross-Domain End-to-End Autonomous Driving __`arxiv June`__; [Paper](https://arxiv.org/pdf/2506.10145)
 
 
 * DriveSuprim: Towards Precise Trajectory Selection for End-to-End Planning __`arxiv June`__; [Paper](https://arxiv.org/pdf/2506.06659)
