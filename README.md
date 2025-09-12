@@ -14,8 +14,6 @@ A curated list of the latest end-to-end autonomous driving (E2EAD). Keep updated
 
 #### Others 2025
 
-*  __`arxiv August`__; [Paper](), [Code]()
-
 
 * DriveSuprim: Towards Precise Trajectory Selection for End-to-End Planning __`arxiv June`__; [Paper](https://arxiv.org/pdf/2506.06659)
 
