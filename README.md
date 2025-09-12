@@ -16,3 +16,6 @@ A curated list of latest end-to-end autonomous driving (E2EAD). Keep updated.
 * ReAL-AD: Towards Human-Like Reasoning in End-to-End Autonomous Driving  __`arxiv July`__; [Paper](https://arxiv.org/pdf/2507.12499)
 * World4Drive: End-to-End Autonomous Driving via Intention-aware Physical Latent World Model __`arxiv July`__; [Paper](https://arxiv.org/abs/2507.00603)
 * WoTE: End-to-End Driving with Online Trajectory Evaluation via BEV World Model __`arxiv April`__; [Paper](https://arxiv.org/abs/2504.01941), [Code](https://github.com/liyingyanUCAS/WoTE)
+
+#### 2024
+* Bench2Drive: Towards Multi-Ability Benchmarking of Closed-Loop End-To-End Autonomous Driving __`arxiv August`__; [Paper](https://arxiv.org/pdf/2406.03877), [Website](https://thinklab-sjtu.github.io/Bench2Drive/), [Code](https://github.com/Thinklab-SJTU/Bench2Drive)
