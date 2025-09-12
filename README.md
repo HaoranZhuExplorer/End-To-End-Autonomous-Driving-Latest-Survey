@@ -7,7 +7,16 @@ A curated list of the latest end-to-end autonomous driving (E2EAD). Keep updated
 #### CVPR 2025
 * MomAD: Don't Shake the Wheel: Momentum-Aware Planning in End-to-End Autonomous Driving __`CVPR 2025`__; [Paper](https://arxiv.org/abs/2503.03125), [Code](https://github.com/adept-thu/MomAD), [Website](https://4dvlab.github.io/project_page/realad)
 
+#### ICLR 2025
+* LAW: Enhancing End-to-End Autonomous Driving with Latent World Model  __`ICLR 2025`__; __`End-to-End AD`__; [Paper](https://openreview.net/pdf?id=fd2u60ryG0), [Code](https://github.com/BraveGroup/LAW)
+* SSR: Navigation-Guided Sparse Scene Representation for End-to-End Autonomous Driving  __`ICLR 2025`__;  __`End-to-End AD`__; [Paper](https://openreview.net/pdf?id=Vv76fCYffN), [Code](https://github.com/PeidongLi/SSR)
+
+
 #### Others 2025
+
+*  __`arxiv August`__; [Paper](), [Code]()
+
+
 * DriveSuprim: Towards Precise Trajectory Selection for End-to-End Planning __`arxiv June`__; [Paper](https://arxiv.org/pdf/2506.06659)
 
 * iPad: Iterative Proposal-centric End-to-End Autonomous Driving __`arxiv May`__; [Paper](https://arxiv.org/pdf/2505.15111), [Code](https://github.com/Kguo-cs/iPad)
